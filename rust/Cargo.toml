@@ -1,0 +1,9 @@
+[package]
+name = "crypto-test"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ed25519-dalek = "1.0.1"
+curve25519-dalek = "3.2.1"
+rand_core = "0.5.1"
